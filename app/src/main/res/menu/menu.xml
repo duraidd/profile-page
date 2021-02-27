@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_tab"
+        android:title="home"
+        android:icon="@drawable/ic_hm"/>
+    <item
+        android:id="@+id/msg_tab"
+        android:title="messages"
+        android:icon="@drawable/ic_msg"/>
+    <item
+        android:id="@+id/net_tab"
+        android:title="internet"
+        android:icon="@drawable/ic_data"/>
+    <item
+        android:id="@+id/list_tab"
+        android:title="list"
+        android:icon="@drawable/ic_list"/>
+</menu>
